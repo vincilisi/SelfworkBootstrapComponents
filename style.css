@@ -1,0 +1,38 @@
+.header-custom{
+    background-image:url(https://images.pexels.com/photos/8581015/pexels-photo-8581015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+     font-weight: 700;
+     font-style: normal;
+}
+
+.siculo-custom{
+    background-image:url(https://www.siciliafan.it/wp-content/uploads/sites/3/2021/01/Simboli-della-Regione-Siciliana.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.veneto-custom{
+    background-image:url(https://th.bing.com/th/id/OIP.zI5WsOhMKFDVVtOlgzAAigHaFW?rs=1&pid=ImgDetMain);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.marocco-custom{
+    background-image:url(https://www.mexatk.com/wp-content/uploads/2016/11/Morocco-Flag-HD-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
